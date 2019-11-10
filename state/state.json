@@ -1,0 +1,17 @@
+[
+  {
+    "list_id": "1a2d7ebf82",
+    "latest_timestamp": "2019-10-25T19:15:51",
+    "items_per_request": 500,
+    "elapsed_seconds": 8.7,
+    "total_updates": 10137
+  },
+  {
+    "list_id": "1a2d7ebf82",
+    "latest_timestamp": "2019-10-25T19:10:26",
+    "start_offset": 10000,
+    "worker_count": 4,
+    "elapsed_seconds": 0.4,
+    "total_updates": 0
+  }
+]
